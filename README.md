@@ -51,6 +51,7 @@ There is an Potential Oppurtunity to generate income, by changing Price between 
 
 *Relization provides the details of conversion rates form booking to checkin, if the relization is low,it could be that customer is not pleased with apperance of the hotel as when compared to bokking it online.*
 
+![Alt text](myimage.png)
 
 # Thank you.
 
