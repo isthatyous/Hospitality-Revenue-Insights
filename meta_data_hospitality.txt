@@ -15,7 +15,7 @@ Column Description for dim_date:
 
 
 Column Description for dim_hotels:
-1. property_id: This column represents the Unique ID for each of the hotels.
+1. property_id: This column represents the Unique ID for each of the hotels.      
 2. property_name: This column represents the name of each hotel.
 3. category: This column determines which class[Luxury, Business] a particular hotel/property belongs to. 
 4. city: This column represents where the particular hotel/property resides in.
