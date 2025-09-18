@@ -1,10 +1,9 @@
 # Project-Revenue Insights - Hospitality-Domain
 
 ## Link to my Dashboard
-🔷Novypro Dashboard - https://www.novypro.com/project/revenue-insights---hospitality-domain
+🔷Novypro Dashboard - 
 
-🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=8306465b-5851-489a-80b0-05f18633f873&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
-
+🔷Power BI Service  - 
 ## Overview:
 *Project: Provide Insights to the Revenue team in the Hospitality Domain.*
 
